@@ -1,0 +1,9 @@
+[
+  {
+    "title"       : "slapshot.ts",
+    "link"        : "https://www.npmjs.com/package/slapshot.ts",
+    "description" : "slapshot.ts is an unofficial TypeScript wrapper for the Slapshot game public API. Built using Axios, this library provides a seamless and efficient way to interact with the game's API, enabling developers to easily integrate Slapshot game data into their applications.",
+    "imageURL"    : "",
+    "language"    : "TypeScript"
+  }
+]
