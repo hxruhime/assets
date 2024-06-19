@@ -5,6 +5,12 @@
     "description" : "slapshot.ts is an unofficial TypeScript wrapper for the Slapshot: Rebound public API built using Axios; this library provides developers a way to easily integrate game data into their applications.",
     "language"    : "TypeScript"
   },
+  {
+    "title"       : "printify.ts",
+    "link"        : "https://www.npmjs.com/package/printify.ts",
+    "description" : "printify.ts is an unofficial TypeScript wrapper for the printify.com API built using Axios; this library provides developers a way to easily integrate store, product, etc., data into their applications.",
+    "language"    : "TypeScript"
+  },
    {
     "title"       : "autoclicker",
     "link"        : "https://www.github.com/hxruhime/autoclicker",
